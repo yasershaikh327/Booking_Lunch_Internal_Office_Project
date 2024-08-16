@@ -1,0 +1,64 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Manage Food</title>
+    <link rel="stylesheet" href="~/css/logincss.css">
+    <link rel="stylesheet" href="~/css/contactus.css">
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+    <link href="~/admin/managefood/css/stylesheet.css" rel="stylesheet" />
+    <script src="~/admin/managefood/js/javascript.js"></script>
+    <script src="~/admin/managefood/js/vegfoodcrud.js"></script>
+    <script src="~/admin/managefood/js/nonvegfoodcrud.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body onload="GetFeedback(), GetBookings(),Test();EmployeeCrud();">
+    <div class="background">
+        <div class="main">
+            <div class="wrapper" style="z-index: 2">
+                <nav>
+                    <input type="checkbox" id="show-search" />
+                    <input type="checkbox" id="show-menu" />
+                    <label for="show-menu" class="menu-icon">
+                        <i class="fas fa-bars"></i>
+                    </label>
+                    <div class="content">
+                        <div class="logo">
+                            <a asp-action="Admindashboard"
+                               asp-controller="Admin"
+                               style="text-decoration: none">
+                                <img src="~/css/zapcom_logo.jpg" class="img-fluid2" />
+                            </a>
+                        </div>
+                        <ul class="links">
+                            <li><a onclick="exportTableToExcel('feedbackTable', 'zapcomLunchFeedback')">Export Feedback</a></li>
+                            <li><a onclick="exportTableToExcel('BookingsTable', 'zapcomLunchBooking')">Export Bookings</a></li>
+                            <li>
+                                <a asp-action="ManageFood"
+                                   asp-controller="Admin"
+                                   style="text-decoration: none" id="@ViewData["Menu"]">Manage Food</a>
+                            </li>
+                            <li>
+                                <a asp-action="RemoveUser"
+                                   asp-controller="Admin"
+                                   style="text-decoration: none" id="@ViewData["RemoveUser"]" onclick="EmployeeCrud();">Remove User</a>
+                            </li>
+                            <li>
+                                <a onclick="Logout();" style="text-decoration: none">Logout</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+        @RenderBody()
+    </div>
+  </body>
+</html>

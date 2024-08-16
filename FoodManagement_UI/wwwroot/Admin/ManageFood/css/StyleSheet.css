@@ -1,0 +1,17 @@
+﻿form {
+}
+
+input {
+    text-align: center;
+}
+
+*::-webkit-scrollbar {
+    display: none;
+}
+
+thead {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    background-color: white;
+}

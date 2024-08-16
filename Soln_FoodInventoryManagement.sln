@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodManagement_UI", "FoodManagement_UI\FoodManagement_UI.csproj", "{91A96CBE-5449-4C9A-9D07-A9AF4000E1ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91A96CBE-5449-4C9A-9D07-A9AF4000E1ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A96CBE-5449-4C9A-9D07-A9AF4000E1ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A96CBE-5449-4C9A-9D07-A9AF4000E1ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A96CBE-5449-4C9A-9D07-A9AF4000E1ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D152F751-1EF8-4A09-847E-E2E38C26160F}
+	EndGlobalSection
+EndGlobal

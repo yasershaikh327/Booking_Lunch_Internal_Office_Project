@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FoodManagement_UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FoodManagement_UI.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Admin\\ManageFood\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\Admin\\ManageFood\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Admin\\ManageFood\\js\\JavaScript.js",
+      "PackagePath": "staticwebassets\\Admin\\ManageFood\\js\\JavaScript.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Admin\\ManageFood\\js\\NonVegFoodCrud.js",
+      "PackagePath": "staticwebassets\\Admin\\ManageFood\\js\\NonVegFoodCrud.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Admin\\ManageFood\\js\\VegFoodCrud.js",
+      "PackagePath": "staticwebassets\\Admin\\ManageFood\\js\\VegFoodCrud.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Admin\\RemoveUser\\js\\RemoveUser.js",
+      "PackagePath": "staticwebassets\\Admin\\RemoveUser\\js\\RemoveUser.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Employee\\BookLunch\\js\\BookFood.js",
+      "PackagePath": "staticwebassets\\Employee\\BookLunch\\js\\BookFood.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Employee\\UpdatePassword\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\Employee\\UpdatePassword\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Employee\\UpdatePassword\\js\\JavaScript.js",
+      "PackagePath": "staticwebassets\\Employee\\UpdatePassword\\js\\JavaScript.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Food\\ShowFoodItems\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\Food\\ShowFoodItems\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Food\\ShowFoodItems\\js\\JavaScript.js",
+      "PackagePath": "staticwebassets\\Food\\ShowFoodItems\\js\\JavaScript.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Home\\Feedback\\Rating Image\\Empty.png",
+      "PackagePath": "staticwebassets\\Home\\Feedback\\Rating Image\\Empty.png"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Home\\Feedback\\Rating Image\\Filled.png",
+      "PackagePath": "staticwebassets\\Home\\Feedback\\Rating Image\\Filled.png"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Home\\Feedback\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\Home\\Feedback\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Home\\Feedback\\js\\JavaScript.js",
+      "PackagePath": "staticwebassets\\Home\\Feedback\\js\\JavaScript.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Home\\ForgetPassword\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\Home\\ForgetPassword\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Home\\ForgetPassword\\js\\JavaScript.js",
+      "PackagePath": "staticwebassets\\Home\\ForgetPassword\\js\\JavaScript.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Home\\Index\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\Home\\Index\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Home\\Login\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\Home\\Login\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Home\\Login\\js\\JavaScript.js",
+      "PackagePath": "staticwebassets\\Home\\Login\\js\\JavaScript.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Home\\Registration\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\Home\\Registration\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Home\\Registration\\js\\JavaScript.js",
+      "PackagePath": "staticwebassets\\Home\\Registration\\js\\JavaScript.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Home\\VerifyEmail\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\Home\\VerifyEmail\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Home\\VerifyEmail\\css\\VerifyOTP.css",
+      "PackagePath": "staticwebassets\\Home\\VerifyEmail\\css\\VerifyOTP.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Home\\VerifyEmail\\js\\JavaScript.js",
+      "PackagePath": "staticwebassets\\Home\\VerifyEmail\\js\\JavaScript.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\Home\\VerifyEmail\\js\\VerifyOTP.js",
+      "PackagePath": "staticwebassets\\Home\\VerifyEmail\\js\\VerifyOTP.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\css\\contactus.css",
+      "PackagePath": "staticwebassets\\css\\contactus.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\css\\logincss.css",
+      "PackagePath": "staticwebassets\\css\\logincss.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\css\\pexels-mareefe-678414.jpg",
+      "PackagePath": "staticwebassets\\css\\pexels-mareefe-678414.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\css\\zapcom_logo.jpg",
+      "PackagePath": "staticwebassets\\css\\zapcom_logo.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\Soln_FoodInventoryManagement\\FoodManagement_UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FoodManagement_UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FoodManagement_UI.props",
+      "PackagePath": "build\\FoodManagement_UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FoodManagement_UI.props",
+      "PackagePath": "buildMultiTargeting\\FoodManagement_UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FoodManagement_UI.props",
+      "PackagePath": "buildTransitive\\FoodManagement_UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

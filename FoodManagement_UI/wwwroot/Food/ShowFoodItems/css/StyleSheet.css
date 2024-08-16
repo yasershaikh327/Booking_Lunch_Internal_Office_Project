@@ -1,0 +1,44 @@
+﻿
+*::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    overflow: hidden;
+}
+
+div#sub {
+    position: relative;
+    top: 69px;
+    height: 700px;
+    background-repeat: no-repeat;
+}
+
+h3 {
+    position: relative;
+    top: 30%;
+    text-align: center;
+    color: floralwhite;
+    font-size: xxx-large;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container.py-5.h-100 {
+    top: 7%;
+    left: 0%;
+}
+
+input {
+    text-align: center;
+}
+
+body {
+    overflow: hidden;
+}
+
+html {
+    overflow: hidden;
+}

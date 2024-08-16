@@ -1,0 +1,41 @@
+﻿.rating {
+    display: inline-block;
+}
+
+    .rating input {
+        display: none;
+    }
+
+    .rating label {
+        float: right;
+        width: 25px;
+        height: 25px;
+        background-image: url('../rating image/empty.png');
+        background-size: cover;
+        cursor: pointer;
+    }
+
+    .rating input:checked ~ label {
+        background-image: url('../rating image/filled.png');
+        background-color: white;
+    }
+
+
+.date-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 1rem;
+    width: 66%;
+}
+
+    .date-container input[type="date"] {
+        font-size: 13px;
+        text-align: center;
+        margin-right: 1rem;
+    }
+
+textarea::placeholder {
+    font-size: 15px; /* Adjust the font size as needed */
+}

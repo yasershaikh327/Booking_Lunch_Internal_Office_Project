@@ -1,0 +1,7 @@
+﻿input {
+    text-align: center;
+}
+
+    input::placeholder {
+        font-size: 16px; /* Adjust the font size as desired */
+    }

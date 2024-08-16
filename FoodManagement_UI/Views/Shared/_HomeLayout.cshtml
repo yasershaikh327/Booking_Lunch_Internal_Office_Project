@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <title>@ViewData["Title"] - Proj_EmployeeFoodManagement</title>
+    <link href="~/home/index/css/stylesheet.css" rel="stylesheet" />
+    <link href="~/css/contactus.css" rel="stylesheet" />
+    <link href="~/css/logincss.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe"
+            crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="~/food/showfooditems/js/javascript.js"></script>
+</head>
+<body>
+    <div class="background">
+        <div class="main">
+            <div class="wrapper">
+                <nav>
+                    <input type="checkbox" id="show-search" />
+                    <input type="checkbox" id="show-menu" />
+                    <label for="show-menu" class="menu-icon"><i class="fas fa-bars"></i></label>
+                    <div class="content">
+                        <div class="logo"><a asp-action="Index" asp-controller="Home" style=" text-decoration:none;"><img src="~/css/zapcom_logo.jpg" class="img-fluid2" /></a></div>
+                        <ul class="links">
+                            <li><a asp-action="Index" asp-controller="Home" style=" text-decoration:none;" id="@ViewData["Home"]">Home</a></li>
+                            <li><a asp-action="ShowFoodItems" asp-controller="Home" style=" text-decoration:none;" id="@ViewData["Menu"]">Menu</a></li>
+                            <li><a asp-action="Feedback" asp-controller="Home" style=" text-decoration:none;" id="@ViewData["Feedback"]">Feedback</a></li>
+                            <li><a asp-action="Login" asp-controller="Home" style=" text-decoration:none;" id="@ViewData["Login"]">Login</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+</body>
+</html>
